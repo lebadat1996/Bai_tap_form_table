@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+table{
+    width: 500px;
+    height: 100px;
+    margin-left: 400px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.redd{
+    background-color: red;
+}
+.vang{
+    background-color: yellow;
+}
